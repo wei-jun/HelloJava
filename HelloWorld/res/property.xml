@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><environments>
+    <environment>
+        <envName>dev</envName>
+        <tmRoot>C:/Program Files/Tomcat9.0_DEV</tmRoot>
+        <serviceName>8110_DEV</serviceName>
+        <appRoot>C:/Program Files/Tomcat9.0_DEV/WEB/ROOT</appRoot>
+        <database>
+            <server>C:/MicroSoft SQL server</server>
+            <dbName>DigiMAINT_DEV</dbName>
+            <user>sa</user>
+            <password>Aerosoft1</password>
+        </database>
+    </environment>
+    <environment>
+        <envName>prod</envName>
+        <tmRoot>C:/Program Files/Tomcat9.0_PROD</tmRoot>
+        <serviceName>8110_PROD</serviceName>
+        <appRoot>C:/Program Files/Tomcat9.0_PROD/WEB/ROOT</appRoot>
+        <database>
+            <server>C:/MicroSoft SQL server</server>
+            <dbName>DigiMAINT_PROD</dbName>
+            <user>sa</user>
+            <password>Aerosoft1</password>
+        </database>
+    </environment>
+    <environment>
+        <envName>train</envName>
+        <tmRoot>C:/Program Files/Tomcat9.0_TRAIN</tmRoot>
+        <serviceName>8110_TRAIN</serviceName>
+        <appRoot>C:/Program Files/Tomcat9.0_TRAIN/WEB/ROOT</appRoot>
+        <database>
+            <server>C:/MicroSoft SQL server</server>
+            <dbName>DigiMAINT_TRAIN</dbName>
+            <user>sa</user>
+            <password>Aerosoft1</password>
+        </database>
+    </environment>
+</environments>
